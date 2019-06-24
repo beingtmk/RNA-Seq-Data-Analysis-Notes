@@ -2,9 +2,9 @@
 
 ## Contents
     
-* [Chipster Course](https://chipster.csc.fi/manual/courses.html#rna/) Notes - [Playlist](https://www.youtube.com/playlist?list=PLjiXAZO27elBj3KYi7ACscgOxlNkNOxPc)
+* [Chipster RNA-Seq Course](https://chipster.csc.fi/manual/courses.html#rna/) Notes - [Playlist](https://www.youtube.com/playlist?list=PLjiXAZO27elBj3KYi7ACscgOxlNkNOxPc)
 
-* StatQuest Course - [Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUJo2Q6xK4tZElbIvAACEykp)
+* StatQuest High Throughput Sequencing Tutorials - [Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUJo2Q6xK4tZElbIvAACEykp)
 
 
 
